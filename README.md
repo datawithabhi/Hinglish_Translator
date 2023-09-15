@@ -60,5 +60,5 @@ To get started with the translator tool, follow these steps:
 1. Clone this repository to your local machine.
 
    ```bash
-   git clone [repository-url]
+   git clone [https://github.com/datawithabhi/Hinglish_Translator]
    cd English-to-Hinglish-Translator
