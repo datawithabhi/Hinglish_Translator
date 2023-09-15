@@ -55,10 +55,4 @@ To get started with the translator tool, follow these steps:
 - Python 3.x
 - Required libraries (specified in each method's script)
 
-### Installation
-
-1. Clone this repository to your local machine.
-
-   ```bash
-   git clone [https://github.com/datawithabhi/Hinglish_Translator]
-   cd English-to-Hinglish-Translator
+Feel free to customize and enhance this repository as per your preferences and include any additional information you find relevant. Happy coding and exploring the data!
